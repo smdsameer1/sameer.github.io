@@ -1,15 +1,4 @@
-# sameer.github.io
-
-
-## 👤 **Profile Overview**
-**Name:** Shaik Mohammed Sameer  
-**Contact:** +91 8055101135 | shaikhmohammedsameer13@gmail.com  
-**GitHub:** [github.com/smdsameer1](https://github.com/smdsameer1)  
-**LinkedIn:** [linkedin.com/in/shaik-mohammed-sameer-5b5919257](https://www.linkedin.com/in/shaik-mohammed-sameer-5b5919257/)  
-**LeetCode:** [leetcode.com/u/sameer1652197](https://leetcode.com/u/sameer1652197/)  
-**Notion (Product Projects):** [Sameer is your PM Buddy](https://www.notion.so/Sameer-is-your-PM-Buddy-816fea8b4c714587bbbc4b866f97fe4f)
-
----
+# Shaik Mohammed Sameer
 
 ## 💡 **About Me**
 I’m a **Full Stack Developer & Data Analyst** with hands-on experience in **QA Testing, Project Management, and Business Analysis**.  
